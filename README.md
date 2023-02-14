@@ -1,4 +1,3 @@
-![MasterHead](https://www.codio.com/hubfs/Imported_Blog_Media/CodePlayback2-1.gif)
 <h1 align="center">Hello👋, I'm Ezequiel Lucero</h1>
 <h3 align="center">A FrontEnd and Software developer student from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/pfod5OGfZO03egp96g/giphy.gif"
