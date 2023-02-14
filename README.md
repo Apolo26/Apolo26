@@ -1,6 +1,6 @@
 ![MasterHead](https://www.codio.com/hubfs/Imported_Blog_Media/CodePlayback2-1.gif)
 <h1 align="center">Hello👋, I'm Ezequiel Lucero</h1>
-<h3 align="center">A FrontEnd and Software developer from Argentina</h3>
+<h3 align="center">A FrontEnd and Software developer student from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/pfod5OGfZO03egp96g/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apolo26&label=Profile%20views&color=0e75b6&style=flat" alt="apolo26" /> </p>
 
