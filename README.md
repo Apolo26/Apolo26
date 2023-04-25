@@ -1,7 +1,13 @@
 <h1 align="center">Hello👋, I'm Ezequiel Lucero</h1>
-<h3 align="center">A FrontEnd and Software developer student from Argentina, San Luis</h3>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF739&width=800&lines=A+FrontEnd+and+Software+developer+student+from+Argentina%2C+San+Luis" alt="Typing SVG" /></a>
+</div>
+
+<div align="left">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apolo26&label=Profile%20views&color=0e75b6&style=flat" alt="apolo26" /> </p>
+</div>
+
 
 <p align="left"> <a href="https://twitter.com/ezequiel_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ezequiel_dev?logo=twitter&style=for-the-badge" alt="ezequiel_dev" /></a> </p>
 
