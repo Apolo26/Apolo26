@@ -21,7 +21,6 @@
 <a href="https://twitter.com/ezequiel_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ezequiel_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucero-ezequiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucero-ezequiel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21190418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21190418" height="30" width="40" /></a>
-<a href="https://instagram.com/ezeluucero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezeluucero" height="30" width="40" /></a>
 <a href="https://www.behance.net/ezequiellucero2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ezequiellucero2" height="30" width="40" /></a>
 </p>
 
