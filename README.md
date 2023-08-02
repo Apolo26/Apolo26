@@ -9,7 +9,7 @@
 </div>
 
 
-<p align="left"> <a href="https://twitter.com/ezequiel_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ezequiel_dev?logo=twitter&style=for-the-badge" alt="ezequiel_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Apolo26_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ezequiel_dev?logo=twitter&style=for-the-badge" alt="ezequiel_dev" /></a> </p>
 
 - 🌱 I’m currently learning **React, Typescript**
 
