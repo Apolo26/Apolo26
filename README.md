@@ -15,7 +15,7 @@
 const Eze = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "games", "music"],
-    languajes: ["spanish", "english"],
+    languages: ["spanish", "english"],
     technologies: {
         frontEnd: {
             js: ["React", "Js Vanilla"],
