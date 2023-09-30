@@ -55,11 +55,10 @@ buscarPrimerTrabajo();
 ```
 </div>
 
-<div align="center", style="display: flex; flex-direction: column;">
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucero-ezequiel/)](https://www.linkedin.com/in/lucero-ezequiel/)
-<br>
-[![Gmail](https://img.shields.io/badge/Gmail-carlosezequieldev%40gmail.com-red)](mailto:carlosezequieldev@gmail.com)
-
+<div align="center">
+    <a href="https://www.linkedin.com/in/lucero-ezequiel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+    <br>
+    <a href="mailto:carlosezequieldev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-carlosezequieldev%40gmail.com-red" alt="Gmail"></a>
 </div>
+
 
