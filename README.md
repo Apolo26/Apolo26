@@ -13,16 +13,15 @@
 
 ```javascript
 const Eze = {
-    pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "games", "music"],
     languages: ["spanish", "english"],
     technologies: {
         frontEnd: {
-            js: ["React", "Js Vanilla"],
-            css: ["Bootstrap", "SASS", "GSAP", "Framer Motion", "ThreeJs"]
+            js: ["React", "NextJs"],
+            css: ["Tailwind", "SASS", "GSAP", "Framer Motion", "ThreeJs"]
         },
         backEnd: ["Java", "C++"],
-        databases: ["MySql", "MongoDB"],
+        databases: ["MySql", "MongoDB", "Supabase"],
     }
 };
 
