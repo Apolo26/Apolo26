@@ -26,34 +26,7 @@ const Eze = {
     }
 };
 
-// Aprendiendo nueva skill
-function agregarHabilidadFrontEnd(skillName) {
-    const skillCategory = "frontEnd";
-
-    if (Eze.technologies[skillCategory]) {
-        Eze.technologies[skillCategory].js.push(skillName);
-    } else {
-        Eze.technologies[skillCategory] = { js: [skillName] };
-    }
-}
-
-agregarHabilidadFrontEnd("NextJS");
-
-console.log(Eze);
-
 ```
-
-<div align="center">
-
-```javascript
-
-// Mi primer trabajo
-function buscarPrimerTrabajo() {
-    console.log("Actualmente estoy buscando mi primer empleo.")}
-
-buscarPrimerTrabajo();
-```
-</div>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/lucero-ezequiel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
